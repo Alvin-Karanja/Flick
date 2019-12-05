@@ -2,15 +2,11 @@
 
 #### An  Application that enables access to movie reviews.  , Thursday 5th August 2019
 ##### By **Alvin Karanja**;
-## Description
-
-One can give reviews to movies according to genres
 
 ## ScreenShots
 
 
- <img src="./app/src/main/res/drawable/men.png" width="200" height="400">
-<img src="./app/src/main/res/drawable/mens.png" width="200" height="400">
+ <img src="./app/src/main/res/drawable/men.png" width="200" height="400">    <img src="./app/src/main/res/drawable/mens.png" width="200" height="400">
 
 
 ## Disclaimer!!
