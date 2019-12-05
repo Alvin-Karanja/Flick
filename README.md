@@ -27,9 +27,9 @@ Still under construction
 ## Technologies used
 * Java.
 
-*Android.
+* Android.
 
-*Firebase.
+* Firebase.
 
 
 ### Installation
