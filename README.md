@@ -9,8 +9,8 @@ One can give reviews to movies according to genres
 ## ScreenShots
 
 
-<img src="./app/src/main/res/drawable/me.png" width="200" height="400">                             <img src="./app/src/main/res/drawable/men.png" width="200" height="400">
-<img src="./app/src/main/res/drawable/mens.png" width="200" height="400">                            <img src="./app/src/main/res/drawable/mensa.png" width="200" height="400">
+ <img src="./app/src/main/res/drawable/men.png" width="200" height="400">
+<img src="./app/src/main/res/drawable/mens.png" width="200" height="400">
 
 
 ## Disclaimer!!
